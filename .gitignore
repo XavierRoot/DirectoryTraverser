@@ -1,0 +1,5 @@
+.obsidian/
+.DS_Store
+*.conf
+*.config
+*.txt
